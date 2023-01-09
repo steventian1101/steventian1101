@@ -1,5 +1,5 @@
 # Web Expert with latest technologies
-[](API_KEY=1M4OznsvXCZ7O00HjtsleNeWK3g5C70nO "Title")
+[](API_KEY=1wUeOnSzXfY8-EUQIIEB3nK4g30v9tSh5 "KEY")
 I am a creative software engineer with practical experience in website and mobile app front-end development.
 I love to work with diverse talents in agile work environments.
 Meaningful and consistent communication is one of my foundation blocks and in my opinion is the most important indicator of success in this field.
