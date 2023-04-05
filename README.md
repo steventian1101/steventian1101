@@ -8,7 +8,7 @@ I love failures, learning from failure and how to deal with failure next time. T
 
 My Skills
 - HTML / CSS, JavaScript, TypeScript, ECMA6
-- PHP, Laravel, CodeIgniter, Zend, Django(DRF), Flask
+- PHP, Laravel, Yii, CodeIgniter, Zend, Django(DRF), Flask
 - React, Next.js, Gatsby.js
 - Vue.js, Quasar, Vuetify, Nuxt.js
 - Webpack, Babel, Flux
