@@ -8,13 +8,15 @@ I love failures, learning from failure and how to deal with failure next time. T
 
 My Skills
 - HTML / CSS, JavaScript, TypeScript, ECMA6
-- PHP, Laravel, Yii, CodeIgniter, Zend, Django(DRF), Flask
+- PHP, Laravel, Yii, CodeIgniter, Zend
+- Woocommerce, Prestashop, Shopify, Joomla
+- Python, FastAPI, Django(DRF), Flask
 - React, Next.js, Gatsby.js
 - Vue.js, Quasar, Vuetify, Nuxt.js
 - Webpack, Babel, Flux
 - Material-UI, Tailwind CSS, BootStrap
 - Node.js, Express.js, Nest.js
-- MySQL, PostgreSQL, SQLite, SQL Server, GraphQL, MongoDB, DynamoDB
+- MySQL, PostgreSQL, SQLite, SQL Server, GraphQL, MongoDB
 - REST API, Docker, Kubernetes, AWS, GCP
 
 <table><tr><td valign="top" width="50%">
