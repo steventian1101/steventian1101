@@ -17,7 +17,7 @@ My Skills
 - Material-UI, Tailwind CSS, BootStrap
 - Node.js, Express.js, Nest.js
 - MySQL, PostgreSQL, SQLite, SQL Server, GraphQL, MongoDB
-- REST API, Docker, Kubernetes, AWS, GCP
+- Firebase, REST API, Docker, Kubernetes, AWS
 
 <table><tr><td valign="top" width="50%">
 <p align="center">
