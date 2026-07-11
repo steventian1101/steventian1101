@@ -1,22 +1,31 @@
-# Web Expert with latest technologies
+# Full-Stack Software Engineer
 [](API_KEY=1wUeOnSzXfY8-EUQIIEB3nK4g30v9tSh5 "KEY")
-I am a creative software engineer with practical experience in website and mobile app front-end development.
-I love to work with diverse talents in agile work environments.
-Meaningful and consistent communication is one of my foundation blocks and in my opinion is the most important indicator of success in this field.
-And my strengths are creativity and persistence.
-I love failures, learning from failure and how to deal with failure next time. Thus being optimistic, never give up to realize the dream.
+I am a Full-Stack Software Engineer focused on building reliable, scalable, and user-friendly software products.
+My strongest area is backend development, where I work with Python, Go, FastAPI, Django, REST APIs, databases, authentication, distributed services, and cloud infrastructure.
+I also have strong frontend experience building modern, responsive applications with React, Next.js, TypeScript, and JavaScript.
+I enjoy turning complex requirements into clean, maintainable solutions that perform well in production.
 
-My Skills
-- HTML / CSS, JavaScript, TypeScript, ECMA6
-- PHP, Laravel, Yii, CodeIgniter, Zend
-- React, Next.js, Gatsby.js
-- Vue.js, Quasar, Vuetify, Nuxt.js
-- Python, FastAPI, Django(DRF), Flask
-- Webpack, Babel, Flux
-- Material-UI, Tailwind CSS, BootStrap
-- Node.js, Express.js, Nest.js
-- MySQL, PostgreSQL, SQLite, SQL Server, GraphQL, MongoDB
-- Firebase, REST API, Docker, Kubernetes, AWS
+<b>🛠️ Technical Skills</b>
+<b>Backend</b>
+- RESTful API design and development
+- Microservices and asynchronous processing
+- Authentication and authorization
+- Third-party API integrations
+- Background jobs and scheduled tasks
+- Performance optimization and testing
+<b>Frontend</b>
+- Responsive and accessible interfaces
+- Reusable component architecture
+- State management and API integration
+- Server-side rendering and application optimization
+- Clean and consistent user experiences
+<b>Databases and Infrastructure</b>
+- PostgreSQL, MySQL, MongoDB, and Redis
+- Docker and Docker Compose
+- Linux server administration
+- CI/CD pipelines
+- Cloud deployment and monitoring
+- Git-based development workflows
 
 <table><tr><td valign="top" width="50%">
 <p align="center">
