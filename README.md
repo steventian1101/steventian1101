@@ -1,4 +1,11 @@
-# Full-Stack Software Engineer
+<h3 align="center">
+  Full-Stack Software Engineer | Backend-Focused | Python • Go • React
+</h3>
+
+<p align="center">
+  Building scalable backend systems, modern web applications, and reliable software products.
+</p>
+
 [](API_KEY=1wUeOnSzXfY8-EUQIIEB3nK4g30v9tSh5 "KEY")
 I am a Full-Stack Software Engineer focused on building reliable, scalable, and user-friendly software products.
 My strongest area is backend development, where I work with Python, Go, FastAPI, Django, REST APIs, databases, authentication, distributed services, and cloud infrastructure.
@@ -10,7 +17,56 @@ I enjoy turning complex requirements into clean, maintainable solutions that per
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
-🛠️ Technical Skills
+
+### 🛠️ Tech Stack
+
+#### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+- Python
+- Go
+- FastAPI
+- Django
+- REST APIs
+- Microservices
+- Background processing
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Responsive UI
+- State management
+- API integration
+
+</td>
+</tr>
+</table>
+
 Backend
 - RESTful API design and development
 - Microservices and asynchronous processing
