@@ -4,7 +4,12 @@ I am a Full-Stack Software Engineer focused on building reliable, scalable, and 
 My strongest area is backend development, where I work with Python, Go, FastAPI, Django, REST APIs, databases, authentication, distributed services, and cloud infrastructure.
 I also have strong frontend experience building modern, responsive applications with React, Next.js, TypeScript, and JavaScript.
 I enjoy turning complex requirements into clean, maintainable solutions that perform well in production.
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 🛠️ Technical Skills
 Backend
 - RESTful API design and development
