@@ -5,21 +5,21 @@ My strongest area is backend development, where I work with Python, Go, FastAPI,
 I also have strong frontend experience building modern, responsive applications with React, Next.js, TypeScript, and JavaScript.
 I enjoy turning complex requirements into clean, maintainable solutions that perform well in production.
 
-<b>🛠️ Technical Skills</b>
-<b>Backend</b>
+🛠️ Technical Skills
+Backend
 - RESTful API design and development
 - Microservices and asynchronous processing
 - Authentication and authorization
 - Third-party API integrations
 - Background jobs and scheduled tasks
 - Performance optimization and testing
-<b>Frontend</b>
+Frontend
 - Responsive and accessible interfaces
 - Reusable component architecture
 - State management and API integration
 - Server-side rendering and application optimization
 - Clean and consistent user experiences
-<b>Databases and Infrastructure</b>
+Databases and Infrastructure
 - PostgreSQL, MySQL, MongoDB, and Redis
 - Docker and Docker Compose
 - Linux server administration
