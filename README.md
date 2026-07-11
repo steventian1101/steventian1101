@@ -12,110 +12,40 @@ My strongest area is backend development, where I work with Python, Go, FastAPI,
 I also have strong frontend experience building modern, responsive applications with React, Next.js, TypeScript, and JavaScript.
 I enjoy turning complex requirements into clean, maintainable solutions that perform well in production.
 
-🚀 About Me
-🐍 Strong backend experience with Python, FastAPI, and Django
-🐹 Building high-performance services and APIs with Go
-⚛️ Rich frontend experience with React, Next.js, and TypeScript
-🏗️ Experienced in designing REST APIs, microservices, and scalable architectures
-🗄️ Working with both SQL and NoSQL databases
-☁️ Familiar with modern cloud infrastructure, Docker, and CI/CD
-🔍 Focused on clean code, performance, security, and maintainability
-🤝 Comfortable working independently or collaborating with distributed engineering teams
+### 🚀 About Me
+• 🐍 Strong backend experience with Python, FastAPI, and Django
+• 🐹 Building high-performance services and APIs with Go
+• ⚛️ Rich frontend experience with React, Next.js, and TypeScript
+• 🏗️ Experienced in designing REST APIs, microservices, and scalable architectures
+• 🗄️ Working with both SQL and NoSQL databases
+• ☁️ Familiar with modern cloud infrastructure, Docker, and CI/CD
+• 🔍 Focused on clean code, performance, security, and maintainability
+• 🤝 Comfortable working independently or collaborating with distributed engineering teams
 
-🛠️ Tech Stack
-Backend
+### 🛠️ Tech Stack
+### Backend
 
 <p> <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs" /> </p>
 
 Python • Go • FastAPI • Django • Node.js • REST APIs • Microservices
 
-Frontend
+### Frontend
 
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" /> </p>
 
 React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-Databases
+### Databases
 
 <p> <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" /> </p>
 
 PostgreSQL • MySQL • MongoDB • Redis
 
-DevOps & Tools
+### DevOps & Tools
 
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,nginx" /> </p>
 
 Docker • Git • GitHub • Linux • AWS • Nginx • CI/CD
-
-### 🛠️ Tech Stack
-
-#### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
-#### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-
-- Python
-- Go
-- FastAPI
-- Django
-- REST APIs
-- Microservices
-- Background processing
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Frontend
-
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Responsive UI
-- State management
-- API integration
-
-</td>
-</tr>
-</table>
-
-Backend
-- RESTful API design and development
-- Microservices and asynchronous processing
-- Authentication and authorization
-- Third-party API integrations
-- Background jobs and scheduled tasks
-- Performance optimization and testing
-Frontend
-- Responsive and accessible interfaces
-- Reusable component architecture
-- State management and API integration
-- Server-side rendering and application optimization
-- Clean and consistent user experiences
-Databases and Infrastructure
-- PostgreSQL, MySQL, MongoDB, and Redis
-- Docker and Docker Compose
-- Linux server administration
-- CI/CD pipelines
-- Cloud deployment and monitoring
-- Git-based development workflows
 
 <table><tr><td valign="top" width="50%">
 <p align="center">
