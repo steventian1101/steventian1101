@@ -65,9 +65,7 @@ class SoftwareEngineer:
 
 ### 📈 GitHub Activity
 
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=steventian1101&show_icons=true&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=steventian1101&hide_border=true" /> </p>
-
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steventian1101&layout=compact&hide_border=true" /> </p>
+<p align="center"> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=steventian1101&hide_border=true" /> </p>
 
 <p align="center"> <strong>Build clean. Scale smart. Keep improving.</strong> </p>
 
