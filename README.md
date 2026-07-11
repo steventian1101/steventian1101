@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   Full-Stack Software Engineer | Backend-Focused | Python • Go • React
-</h1>
+</h2>
 
 <h3 align="center">
   Building scalable backend systems, modern web applications, and reliable software products.
