@@ -12,6 +12,41 @@ My strongest area is backend development, where I work with Python, Go, FastAPI,
 I also have strong frontend experience building modern, responsive applications with React, Next.js, TypeScript, and JavaScript.
 I enjoy turning complex requirements into clean, maintainable solutions that perform well in production.
 
+🚀 About Me
+🐍 Strong backend experience with Python, FastAPI, and Django
+🐹 Building high-performance services and APIs with Go
+⚛️ Rich frontend experience with React, Next.js, and TypeScript
+🏗️ Experienced in designing REST APIs, microservices, and scalable architectures
+🗄️ Working with both SQL and NoSQL databases
+☁️ Familiar with modern cloud infrastructure, Docker, and CI/CD
+🔍 Focused on clean code, performance, security, and maintainability
+🤝 Comfortable working independently or collaborating with distributed engineering teams
+
+🛠️ Tech Stack
+Backend
+
+<p> <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs" /> </p>
+
+Python • Go • FastAPI • Django • Node.js • REST APIs • Microservices
+
+Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" /> </p>
+
+React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
+
+Databases
+
+<p> <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" /> </p>
+
+PostgreSQL • MySQL • MongoDB • Redis
+
+DevOps & Tools
+
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,nginx" /> </p>
+
+Docker • Git • GitHub • Linux • AWS • Nginx • CI/CD
+
 ### 🛠️ Tech Stack
 
 #### Backend
