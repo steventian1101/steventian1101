@@ -48,6 +48,7 @@ PostgreSQL • MySQL • MongoDB • Redis
 Docker • Git • GitHub • Linux • AWS • Nginx • CI/CD
 
 ### 🎯 Engineering Focus
+```python
 class SoftwareEngineer:
     def __init__(self):
         self.role = "Full Stack Software Engineer"
@@ -62,7 +63,7 @@ class SoftwareEngineer:
             "Performance optimization",
             "Reliable production systems",
         ]
-
+```
 ### 📈 GitHub Activity
 
 <p align="center"> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=steventian1101&hide_border=true" /> </p>
