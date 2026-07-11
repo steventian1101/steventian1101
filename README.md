@@ -73,7 +73,9 @@ class SoftwareEngineer:
   />
 </p>
 
-<p align="center"> <strong>Build clean. Scale smart. Keep improving.</strong> </p>
+<p align="center">
+  <strong>Build clean. Scale smart. Keep improving.</strong>
+</p>
 
 <table><tr><td valign="top" width="50%">
 <p align="center">
