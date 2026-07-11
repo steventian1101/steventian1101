@@ -1,3 +1,5 @@
+[](API_KEY=1wUeOnSzXfY8-EUQIIEB3nK4g30v9tSh5 "KEY")
+
 <h2 align="center">
   Full-Stack Software Engineer | Backend-Focused | Python • Go • React
 </h2>
@@ -5,8 +7,6 @@
 <h3 align="center">
   Building scalable backend systems, modern web applications, and reliable software products.
 </h3>
-
-[](API_KEY=1wUeOnSzXfY8-EUQIIEB3nK4g30v9tSh5 "KEY")
 I am a Full-Stack Software Engineer focused on building reliable, scalable, and user-friendly software products.
 My strongest area is backend development, where I work with Python, Go, FastAPI, Django, REST APIs, databases, authentication, distributed services, and cloud infrastructure.
 I also have strong frontend experience building modern, responsive applications with React, Next.js, TypeScript, and JavaScript.
